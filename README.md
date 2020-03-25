@@ -8,7 +8,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 
 ## Contents
 
-* [“As a Developer…” Is Not a User Storyhttps://www.industriallogic.com/blog/as-a-developer-is-not-a-user-story/](https://www.industriallogic.com/blog/as-a-developer-is-not-a-user-story/)
+* [“As a Developer…” Is Not a User Story](https://www.industriallogic.com/blog/as-a-developer-is-not-a-user-story/)
 * [Writing User Stories](https://thoughtworks-jumpstart.gitbook.io/book/agile-101/writing_user_stories)
 * [User Story Guidelines](https://codurance.com/2015/03/20/user-stories-guidelines/)
 * [Minimum Valuable Increment - MVI](https://codurance.com/2020/01/27/minimum-valuable-increment/)
