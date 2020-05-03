@@ -8,9 +8,14 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 
 ## Contents
 
+### Enough to be dangerous
+
+* [User Story Guidelines](https://codurance.com/2015/03/20/user-stories-guidelines/)
+
+### To master, continue with
+
 * [“As a Developer…” Is Not a User Story](https://www.industriallogic.com/blog/as-a-developer-is-not-a-user-story/)
 * [Writing User Stories](https://thoughtworks-jumpstart.gitbook.io/book/agile-101/writing_user_stories)
-* [User Story Guidelines](https://codurance.com/2015/03/20/user-stories-guidelines/)
 * [Minimum Valuable Increment - MVI](https://codurance.com/2020/01/27/minimum-valuable-increment/)
 * [User stories](https://github.com/AlphaFounders/style-guide/blob/master/agile-user-story.md)
 
