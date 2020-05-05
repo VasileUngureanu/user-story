@@ -18,6 +18,7 @@ There are hundreds and thousands of resources on the internet for this topic, bu
 * [Writing User Stories](https://thoughtworks-jumpstart.gitbook.io/book/agile-101/writing_user_stories)
 * [Minimum Valuable Increment - MVI](https://codurance.com/2020/01/27/minimum-valuable-increment/)
 * [User stories](https://github.com/AlphaFounders/style-guide/blob/master/agile-user-story.md)
+* [The art of slicing stories](https://dominikberner.ch/the-art-of-slicing/)
 
 ## Usage
 
